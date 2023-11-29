@@ -26,7 +26,7 @@ public class Java {
 		}
 		
 		String a="aabbcca";
-		String b="abcabc";
+		//String b="abcabc";
 		
 		String a1[]=a.split("");
 		String b1[]=b.split("");
