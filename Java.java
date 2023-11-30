@@ -9,7 +9,7 @@ public class Java {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+//Testing
 //		Program to find difference of consecutive array elements and print
 //		the minimum difference {10, 5, 9, 14, 8}
 		
